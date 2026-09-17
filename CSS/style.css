@@ -1,0 +1,38 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  background-color: #000000;
+  color: #5f1604;
+  padding: 20px;
+  text-align: center;
+  border-radius: 0px 0px 0px 0px;
+}
+
+nav {
+  padding: 20px;
+  background-color: #181818;
+  padding: 10px;
+  text-align: center;
+  border-radius: 0px 0px 0px 0px;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+body {
+  background-color: #1f1f1f !important;
+  color: #5f1604;
+}
+
+section {
+  padding: 20px;
+  background-color: #1f1f1f;
+  color: white;
+}
